@@ -1,4 +1,4 @@
-# Console-based Cafe Management System
+# Console-based Restourant Reservation System
 
 ## Main Goal
 The main goal of this application is to digitalize and automate the manual ordering process in a cafe.
